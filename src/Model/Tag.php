@@ -150,3 +150,4 @@ class Tag extends Eloquent
             ->delete();
     }
 }
+
